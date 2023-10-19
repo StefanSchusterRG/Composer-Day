@@ -1,7 +1,7 @@
 variable "my_gcp_project" {
-  default = "your-gcp-project-id"
+  default = "qwiklabs-gcp-00-e8e2abf5a57b"
 }
 
 variable "region" {
-  default = "gcp region" # example "us-central1"
+  default = "us-central1" # example "us-central1"
 }
